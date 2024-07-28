@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Chat Workstation Client",
+    "url":"https://github.com/Travisun/ChatWorkstation",
+    "desc":"An excellent localized AI chat client application, cross-platform, compatible with all large models compatible with Ollama and OpenAI API. Local deployment protects your data privacy and can be used as Ollama client and OpenAI client."
+  },
+  {
+    "name":"Chat Workstation Homepage",
+    "url":"https://github.com/Travisun/ChatWorkstationBlog",
+    "desc":"The Official Blog of Chat Workstation Team and the project."
+  }
+]

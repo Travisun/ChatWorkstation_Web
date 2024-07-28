@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Chat Workstation",
+    "version": "1.1.0 Beta_Pre",
+    "production": false,
+    "os": "Windows",
+    "bit": 64,
+    "arch": "x86",
+    "url":"https://github.com/Travisun/ChatWorkstation/releases/download/v1.1.0/ChatWorkstation-Setup-1.1.0.Beta-Windows-64bit.exe",
+    "desc":"This is a preview version before the official release, suitable for download and installation on Windows 64-bit operating system. Although we have done internal testing for up to 15 days, the preview version may have some errors."
+  }
+]
